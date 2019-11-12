@@ -1,1 +1,1 @@
-![cover page](cover.jpg)
+# Attacking & Auditing Docker Containers Using Open Source - DEF CON 26 Workshop

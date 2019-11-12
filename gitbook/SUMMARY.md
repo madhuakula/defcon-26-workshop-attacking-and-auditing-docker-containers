@@ -53,7 +53,7 @@
 ## About Us
 
 * [About the trainer - Madhu Akula](about-us/about-madhu.md)
-* [About Appsecco](about-us/about-appsecco.md)
+* [License](about-us/license.md)
 * [Upcoming Trainings and Conferences](about-us/upcoming-conferences.md)
 
 ## References & Resources
