@@ -1,5 +1,7 @@
 # Attacking & Auditing Docker Containers Using Open Source - DEF CON 26
 
+[https://madhuakula.com/content/attacking-and-auditing-docker-containers-using-opensource/](https://madhuakula.com/content/attacking-and-auditing-docker-containers-using-opensource/)
+
 This repository contains all the presentation, documentation and the virtual machine links for hands-on. The workshop abstract in DEF CON 26 website [Attacking & Auditing Docker Containers Using Open Source](https://defcon.org/html/defcon-26/dc-26-workshops.html#akula)
 
 ## Presentation & Video
